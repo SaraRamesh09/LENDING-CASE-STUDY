@@ -17,6 +17,8 @@ Lenders decide
 
 ## Types of variables
 • Customer (applicant) demographic - Employement length, Employement title, Annual Income, Zip code
+
 • Loan related information & characteristics - Loan amount, Funded amount, Interest rate, Loan status, Loan Grade
+
 • Customer behaviour - Recoveries, loan application, Loan purpose.
 
